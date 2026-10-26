@@ -1,8 +1,8 @@
 {
- "updated_at_utc": "2026-10-26 08:18 UTC",
+ "updated_at_utc": "2026-10-26 08:54 UTC",
  "channels": 23,
- "configs": 365,
- "proxies": 271,
+ "configs": 364,
+ "proxies": 270,
  "per_channel": {
   "v2ray_configs": {
    "configs": 215,
@@ -10,7 +10,7 @@
    "error": null
   },
   "ConfigYab_FREE": {
-   "configs": 69,
+   "configs": 68,
    "proxies": 24,
    "error": null
   },
@@ -21,7 +21,7 @@
   },
   "ProxyMTProto": {
    "configs": 0,
-   "proxies": 37,
+   "proxies": 35,
    "error": null
   },
   "Lion_MTProto": {
