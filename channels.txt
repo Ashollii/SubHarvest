@@ -1,0 +1,26 @@
+# Public Telegram channels harvested by SubHarvest.
+# One username per line. Only channels with a public preview
+# (https://t.me/s/<channel>) produce output.
+v2ray_configs
+ConfigYab_FREE
+v2FreeHub
+ProxyMTProto
+Lion_MTProto
+mtp_roto
+tgmtproto
+proxytelegram
+V2range
+irproxy
+iRoProxy
+Proxy_Qavi
+ProxyDaemi
+persianvpnhub
+TirexNet
+ShadowProxy66
+oxnet_ir
+Moris_Proxy
+best_internet_iran
+internet_azad_2026
+mitivpn
+ffreecoffee
+almasserver
