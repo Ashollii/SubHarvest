@@ -47,7 +47,8 @@ flowchart LR
 - **Extract** — every `vless://`, `vmess://`, `trojan://`, `ss://`, `ssr://`, `hy2://`, `hysteria(2)://`, `tuic://`, `wireguard://` URI and every `t.me/proxy` link in the latest posts.
 - **Clean** — HTML entities unescaped, trailing punctuation stripped, `tg://proxy` links normalised to `https://t.me/proxy`.
 - **Dedupe** — first occurrence wins; the same config posted by nine channels appears once.
-- **Publish** — plain + base64 subscription files with profile headers (`#profile-title`, update interval, support & info URLs) that modern clients render as a named subscription with refresh & support buttons.
+- **Rename** — every config in the subscription is renamed to **`ASHKAN-<n> <flag> <IPv4|IPv6>`** (the flag comes from the config's original name, 🌐 when unknown) — the same naming as the main [SUB](https://github.com/Ashollii/SUB). `configs.txt` keeps the original names.
+- **Publish** — plain + base64 subscription files with profile headers (`#profile-title: ASHKAN`, update interval, usage, support & info URLs) that modern clients render as a named subscription with refresh & support buttons.
 
 The harvester is **pure Python stdlib** — no dependencies, and truncated downloads are resumed with HTTP `Range` requests, so it survives flaky networks.
 
