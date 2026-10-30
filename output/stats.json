@@ -1,8 +1,8 @@
 {
- "updated_at_utc": "2026-10-29 23:55 UTC",
+ "updated_at_utc": "2026-10-30 05:43 UTC",
  "channels": 23,
- "configs": 389,
- "proxies": 330,
+ "configs": 405,
+ "proxies": 328,
  "per_channel": {
   "v2ray_configs": {
    "configs": 215,
@@ -10,7 +10,7 @@
    "error": null
   },
   "ConfigYab_FREE": {
-   "configs": 67,
+   "configs": 84,
    "proxies": 1,
    "error": null
   },
@@ -21,7 +21,7 @@
   },
   "ProxyMTProto": {
    "configs": 0,
-   "proxies": 41,
+   "proxies": 39,
    "error": null
   },
   "Lion_MTProto": {
@@ -70,7 +70,7 @@
    "error": null
   },
   "persianvpnhub": {
-   "configs": 19,
+   "configs": 18,
    "proxies": 1,
    "error": null
   },
