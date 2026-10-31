@@ -1,10 +1,3 @@
-https://t.me/proxy?server=proxy.zetru.nl&amp;port=443&amp;secret=06233b1831a19a98554a06e84a4a1c9f
-https://t.me/proxy?server=157.173.16.49&amp;port=443&amp;secret=06233b1831a19a98554a06e84a4a1c9f
-https://t.me/proxy?server=46.224.46.53&amp;port=5500&amp;secret=DDBighLLvXrFGRMCBVJdFQ
-https://t.me/proxy?server=46.225.219.8&amp;port=7799&amp;secret=dd10400103324995b07c030386e886e7f1
-https://t.me/proxy?server=paeez.delroba.co.uk.&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=hadaf.golgoli2.co.uk&amp;port=2053&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=mashti-khobi.khodkarbic.info&amp;port=8443&amp;secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=you.foltmeingop.co.uk&amp;port=8880&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=mmd.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=noone.lavazemi1.co.uk&amp;port=2083&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -186,6 +179,7 @@ https://t.me/proxy?server=name.golgoli2.co.uk&amp;port=2096&amp;secret=eeNEgYdJv
 https://t.me/proxy?server=run.golgoli2.co.uk&amp;port=2053&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=irogallery.golgoli1.co.uk&amp;port=2096&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=great.cipservice.co.uk&amp;port=2096&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=hadaf.golgoli2.co.uk&amp;port=2053&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=zokamodeling.baranepaeizi.info.&amp;port=9988&amp;secret=dd10400103324995b07c030386e886e7f1
 https://t.me/proxy?server=bookmook.hichibehichi-co.info.&amp;port=2882&amp;secret=dd10400103324995b07c030386e886e7f1
 https://t.me/proxy?server=web-kook.mosbatbashim.info.&amp;port=5500&amp;secret=DDBighLLvXrFGRMCBVJdFQ
@@ -201,6 +195,7 @@ https://t.me/proxy?server=AZADI.goooalir.co.uk&amp;port=8443&amp;secret=dd104462
 https://t.me/proxy?server=server2.server-space52.info&amp;port=443&amp;secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 https://t.me/proxy?server=web.server-space52.info&amp;port=443&amp;secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 https://t.me/proxy?server=server1.server-space52.info&amp;port=443&amp;secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+https://t.me/proxy?server=film.poefauscw.ir&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=93.113.230.250&amp;port=443&amp;secret=dd6a67ae4c2d173b4168745435cb313a39
 https://t.me/proxy?server=212.87.199.110&amp;port=2087&amp;secret=864e3cdccba32eb5fb158f8730148907
 https://t.me/proxy?server=mio.mozitop.co.uk&amp;port=8443&amp;secret=79e344818749bd7ac519130220c25d09
