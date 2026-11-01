@@ -1,8 +1,8 @@
 {
- "updated_at_utc": "2026-11-01 18:26 UTC",
+ "updated_at_utc": "2026-11-01 22:47 UTC",
  "channels": 23,
- "configs": 353,
- "proxies": 357,
+ "configs": 395,
+ "proxies": 336,
  "per_channel": {
   "v2ray_configs": {
    "configs": 215,
@@ -10,8 +10,8 @@
    "error": null
   },
   "ConfigYab_FREE": {
-   "configs": 56,
-   "proxies": 25,
+   "configs": 102,
+   "proxies": 0,
    "error": null
   },
   "v2FreeHub": {
@@ -21,7 +21,7 @@
   },
   "ProxyMTProto": {
    "configs": 0,
-   "proxies": 41,
+   "proxies": 37,
    "error": null
   },
   "Lion_MTProto": {
@@ -31,7 +31,7 @@
   },
   "mtp_roto": {
    "configs": 0,
-   "proxies": 42,
+   "proxies": 41,
    "error": null
   },
   "tgmtproto": {
@@ -41,7 +41,7 @@
   },
   "proxytelegram": {
    "configs": 0,
-   "proxies": 26,
+   "proxies": 29,
    "error": null
   },
   "V2range": {
@@ -51,7 +51,7 @@
   },
   "irproxy": {
    "configs": 0,
-   "proxies": 26,
+   "proxies": 29,
    "error": null
   },
   "iRoProxy": {
@@ -70,8 +70,8 @@
    "error": null
   },
   "persianvpnhub": {
-   "configs": 18,
-   "proxies": 1,
+   "configs": 19,
+   "proxies": 0,
    "error": null
   },
   "TirexNet": {
@@ -110,7 +110,7 @@
    "error": null
   },
   "ffreecoffee": {
-   "configs": 45,
+   "configs": 40,
    "proxies": 0,
    "error": null
   },
