@@ -1,7 +1,7 @@
 {
- "updated_at_utc": "2026-11-01 22:47 UTC",
+ "updated_at_utc": "2026-11-02 02:28 UTC",
  "channels": 23,
- "configs": 395,
+ "configs": 364,
  "proxies": 336,
  "per_channel": {
   "v2ray_configs": {
@@ -10,7 +10,7 @@
    "error": null
   },
   "ConfigYab_FREE": {
-   "configs": 102,
+   "configs": 72,
    "proxies": 0,
    "error": null
   },
@@ -70,7 +70,7 @@
    "error": null
   },
   "persianvpnhub": {
-   "configs": 19,
+   "configs": 18,
    "proxies": 0,
    "error": null
   },
