@@ -1,7 +1,7 @@
 {
- "updated_at_utc": "2026-11-03 18:25 UTC",
+ "updated_at_utc": "2026-11-03 23:58 UTC",
  "channels": 23,
- "configs": 342,
+ "configs": 360,
  "proxies": 289,
  "per_channel": {
   "v2ray_configs": {
@@ -10,8 +10,8 @@
    "error": null
   },
   "ConfigYab_FREE": {
-   "configs": 60,
-   "proxies": 9,
+   "configs": 80,
+   "proxies": 0,
    "error": null
   },
   "v2FreeHub": {
@@ -21,22 +21,22 @@
   },
   "ProxyMTProto": {
    "configs": 0,
-   "proxies": 37,
+   "proxies": 32,
    "error": null
   },
   "Lion_MTProto": {
    "configs": 0,
-   "proxies": 47,
+   "proxies": 43,
    "error": null
   },
   "mtp_roto": {
    "configs": 0,
-   "proxies": 42,
+   "proxies": 41,
    "error": null
   },
   "tgmtproto": {
    "configs": 0,
-   "proxies": 10,
+   "proxies": 8,
    "error": null
   },
   "proxytelegram": {
@@ -46,7 +46,7 @@
   },
   "V2range": {
    "configs": 1,
-   "proxies": 37,
+   "proxies": 38,
    "error": null
   },
   "irproxy": {
@@ -96,7 +96,7 @@
   },
   "best_internet_iran": {
    "configs": 0,
-   "proxies": 9,
+   "proxies": 4,
    "error": null
   },
   "internet_azad_2026": {
@@ -110,7 +110,7 @@
    "error": null
   },
   "ffreecoffee": {
-   "configs": 32,
+   "configs": 30,
    "proxies": 0,
    "error": null
   },
