@@ -1,8 +1,8 @@
 {
- "updated_at_utc": "2026-11-03 02:53 UTC",
+ "updated_at_utc": "2026-11-03 10:48 UTC",
  "channels": 23,
- "configs": 360,
- "proxies": 337,
+ "configs": 350,
+ "proxies": 363,
  "per_channel": {
   "v2ray_configs": {
    "configs": 215,
@@ -10,8 +10,8 @@
    "error": null
   },
   "ConfigYab_FREE": {
-   "configs": 74,
-   "proxies": 0,
+   "configs": 66,
+   "proxies": 20,
    "error": null
   },
   "v2FreeHub": {
@@ -21,12 +21,12 @@
   },
   "ProxyMTProto": {
    "configs": 0,
-   "proxies": 34,
+   "proxies": 35,
    "error": null
   },
   "Lion_MTProto": {
    "configs": 0,
-   "proxies": 44,
+   "proxies": 46,
    "error": null
   },
   "mtp_roto": {
@@ -36,12 +36,12 @@
   },
   "tgmtproto": {
    "configs": 0,
-   "proxies": 9,
+   "proxies": 7,
    "error": null
   },
   "proxytelegram": {
    "configs": 0,
-   "proxies": 36,
+   "proxies": 45,
    "error": null
   },
   "V2range": {
@@ -51,7 +51,7 @@
   },
   "irproxy": {
    "configs": 0,
-   "proxies": 36,
+   "proxies": 45,
    "error": null
   },
   "iRoProxy": {
@@ -91,7 +91,7 @@
   },
   "Moris_Proxy": {
    "configs": 0,
-   "proxies": 27,
+   "proxies": 29,
    "error": null
   },
   "best_internet_iran": {
@@ -110,7 +110,7 @@
    "error": null
   },
   "ffreecoffee": {
-   "configs": 36,
+   "configs": 34,
    "proxies": 0,
    "error": null
   },
