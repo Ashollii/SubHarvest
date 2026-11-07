@@ -1,8 +1,8 @@
 {
- "updated_at_utc": "2026-11-06 20:52 UTC",
+ "updated_at_utc": "2026-11-07 00:55 UTC",
  "channels": 23,
- "configs": 379,
- "proxies": 318,
+ "configs": 365,
+ "proxies": 306,
  "per_channel": {
   "v2ray_configs": {
    "configs": 215,
@@ -10,8 +10,8 @@
    "error": null
   },
   "ConfigYab_FREE": {
-   "configs": 80,
-   "proxies": 29,
+   "configs": 65,
+   "proxies": 1,
    "error": null
   },
   "v2FreeHub": {
@@ -70,8 +70,8 @@
    "error": null
   },
   "persianvpnhub": {
-   "configs": 15,
-   "proxies": 3,
+   "configs": 18,
+   "proxies": 2,
    "error": null
   },
   "TirexNet": {
@@ -110,7 +110,7 @@
    "error": null
   },
   "ffreecoffee": {
-   "configs": 50,
+   "configs": 48,
    "proxies": 0,
    "error": null
   },
