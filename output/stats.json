@@ -1,8 +1,8 @@
 {
- "updated_at_utc": "2026-11-08 21:08 UTC",
+ "updated_at_utc": "2026-11-09 00:51 UTC",
  "channels": 23,
- "configs": 366,
- "proxies": 311,
+ "configs": 383,
+ "proxies": 305,
  "per_channel": {
   "v2ray_configs": {
    "configs": 215,
@@ -10,8 +10,8 @@
    "error": null
   },
   "ConfigYab_FREE": {
-   "configs": 52,
-   "proxies": 28,
+   "configs": 71,
+   "proxies": 0,
    "error": null
   },
   "v2FreeHub": {
@@ -70,8 +70,8 @@
    "error": null
   },
   "persianvpnhub": {
-   "configs": 19,
-   "proxies": 0,
+   "configs": 17,
+   "proxies": 1,
    "error": null
   },
   "TirexNet": {
@@ -101,7 +101,7 @@
   },
   "internet_azad_2026": {
    "configs": 0,
-   "proxies": 100,
+   "proxies": 101,
    "error": null
   },
   "mitivpn": {
