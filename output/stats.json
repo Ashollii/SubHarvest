@@ -1,8 +1,8 @@
 {
- "updated_at_utc": "2026-11-20 11:31 UTC",
+ "updated_at_utc": "2026-11-20 20:11 UTC",
  "channels": 23,
- "configs": 342,
- "proxies": 408,
+ "configs": 349,
+ "proxies": 448,
  "per_channel": {
   "v2ray_configs": {
    "configs": 215,
@@ -21,17 +21,17 @@
   },
   "ProxyMTProto": {
    "configs": 0,
-   "proxies": 33,
+   "proxies": 41,
    "error": null
   },
   "Lion_MTProto": {
    "configs": 0,
-   "proxies": 43,
+   "proxies": 47,
    "error": null
   },
   "mtp_roto": {
    "configs": 0,
-   "proxies": 38,
+   "proxies": 53,
    "error": null
   },
   "tgmtproto": {
@@ -41,7 +41,7 @@
   },
   "proxytelegram": {
    "configs": 0,
-   "proxies": 22,
+   "proxies": 38,
    "error": null
   },
   "V2range": {
@@ -51,7 +51,7 @@
   },
   "irproxy": {
    "configs": 0,
-   "proxies": 22,
+   "proxies": 38,
    "error": null
   },
   "iRoProxy": {
@@ -66,11 +66,11 @@
   },
   "ProxyDaemi": {
    "configs": 0,
-   "proxies": 7,
+   "proxies": 12,
    "error": null
   },
   "persianvpnhub": {
-   "configs": 20,
+   "configs": 17,
    "proxies": 0,
    "error": null
   },
@@ -110,12 +110,12 @@
    "error": null
   },
   "ffreecoffee": {
-   "configs": 87,
+   "configs": 94,
    "proxies": 0,
    "error": null
   },
   "almasserver": {
-   "configs": 7,
+   "configs": 10,
    "proxies": 0,
    "error": null
   }
