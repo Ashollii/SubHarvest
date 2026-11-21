@@ -1,8 +1,8 @@
 {
- "updated_at_utc": "2026-11-21 17:28 UTC",
+ "updated_at_utc": "2026-11-21 23:11 UTC",
  "channels": 23,
  "configs": 329,
- "proxies": 406,
+ "proxies": 432,
  "per_channel": {
   "v2ray_configs": {
    "configs": 215,
@@ -21,17 +21,17 @@
   },
   "ProxyMTProto": {
    "configs": 0,
-   "proxies": 37,
+   "proxies": 39,
    "error": null
   },
   "Lion_MTProto": {
    "configs": 0,
-   "proxies": 51,
+   "proxies": 49,
    "error": null
   },
   "mtp_roto": {
    "configs": 0,
-   "proxies": 35,
+   "proxies": 36,
    "error": null
   },
   "tgmtproto": {
@@ -41,7 +41,7 @@
   },
   "proxytelegram": {
    "configs": 0,
-   "proxies": 38,
+   "proxies": 43,
    "error": null
   },
   "V2range": {
@@ -51,7 +51,7 @@
   },
   "irproxy": {
    "configs": 0,
-   "proxies": 38,
+   "proxies": 43,
    "error": null
   },
   "iRoProxy": {
@@ -70,8 +70,8 @@
    "error": null
   },
   "persianvpnhub": {
-   "configs": 17,
-   "proxies": 3,
+   "configs": 14,
+   "proxies": 6,
    "error": null
   },
   "TirexNet": {
@@ -101,7 +101,7 @@
   },
   "internet_azad_2026": {
    "configs": 0,
-   "proxies": 138,
+   "proxies": 153,
    "error": null
   },
   "mitivpn": {
@@ -115,7 +115,7 @@
    "error": null
   },
   "almasserver": {
-   "configs": 10,
+   "configs": 13,
    "proxies": 0,
    "error": null
   }
