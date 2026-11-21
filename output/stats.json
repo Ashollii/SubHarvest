@@ -1,8 +1,8 @@
 {
- "updated_at_utc": "2026-11-20 20:11 UTC",
+ "updated_at_utc": "2026-11-21 01:29 UTC",
  "channels": 23,
- "configs": 349,
- "proxies": 448,
+ "configs": 348,
+ "proxies": 446,
  "per_channel": {
   "v2ray_configs": {
    "configs": 215,
@@ -21,7 +21,7 @@
   },
   "ProxyMTProto": {
    "configs": 0,
-   "proxies": 41,
+   "proxies": 38,
    "error": null
   },
   "Lion_MTProto": {
@@ -66,12 +66,12 @@
   },
   "ProxyDaemi": {
    "configs": 0,
-   "proxies": 12,
+   "proxies": 8,
    "error": null
   },
   "persianvpnhub": {
-   "configs": 17,
-   "proxies": 0,
+   "configs": 18,
+   "proxies": 2,
    "error": null
   },
   "TirexNet": {
@@ -110,7 +110,7 @@
    "error": null
   },
   "ffreecoffee": {
-   "configs": 94,
+   "configs": 92,
    "proxies": 0,
    "error": null
   },
