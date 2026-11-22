@@ -1,8 +1,8 @@
 {
- "updated_at_utc": "2026-11-21 23:11 UTC",
+ "updated_at_utc": "2026-11-22 03:08 UTC",
  "channels": 23,
- "configs": 329,
- "proxies": 432,
+ "configs": 334,
+ "proxies": 408,
  "per_channel": {
   "v2ray_configs": {
    "configs": 215,
@@ -41,7 +41,7 @@
   },
   "proxytelegram": {
    "configs": 0,
-   "proxies": 43,
+   "proxies": 24,
    "error": null
   },
   "V2range": {
@@ -51,7 +51,7 @@
   },
   "irproxy": {
    "configs": 0,
-   "proxies": 43,
+   "proxies": 24,
    "error": null
   },
   "iRoProxy": {
@@ -70,8 +70,8 @@
    "error": null
   },
   "persianvpnhub": {
-   "configs": 14,
-   "proxies": 6,
+   "configs": 19,
+   "proxies": 0,
    "error": null
   },
   "TirexNet": {
