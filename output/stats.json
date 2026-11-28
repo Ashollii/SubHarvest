@@ -1,8 +1,8 @@
 {
- "updated_at_utc": "2026-11-28 01:56 UTC",
+ "updated_at_utc": "2026-11-28 10:21 UTC",
  "channels": 23,
- "configs": 315,
- "proxies": 691,
+ "configs": 321,
+ "proxies": 714,
  "per_channel": {
   "v2ray_configs": {
    "configs": 215,
@@ -11,7 +11,7 @@
   },
   "ConfigYab_FREE": {
    "configs": 0,
-   "proxies": 293,
+   "proxies": 333,
    "error": null
   },
   "v2FreeHub": {
@@ -21,27 +21,27 @@
   },
   "ProxyMTProto": {
    "configs": 0,
-   "proxies": 33,
+   "proxies": 23,
    "error": null
   },
   "Lion_MTProto": {
    "configs": 0,
-   "proxies": 52,
+   "proxies": 55,
    "error": null
   },
   "mtp_roto": {
    "configs": 0,
-   "proxies": 31,
+   "proxies": 29,
    "error": null
   },
   "tgmtproto": {
    "configs": 0,
-   "proxies": 9,
+   "proxies": 8,
    "error": null
   },
   "proxytelegram": {
    "configs": 0,
-   "proxies": 25,
+   "proxies": 27,
    "error": null
   },
   "V2range": {
@@ -51,12 +51,12 @@
   },
   "irproxy": {
    "configs": 0,
-   "proxies": 25,
+   "proxies": 27,
    "error": null
   },
   "iRoProxy": {
    "configs": 0,
-   "proxies": 21,
+   "proxies": 17,
    "error": null
   },
   "Proxy_Qavi": {
@@ -66,12 +66,12 @@
   },
   "ProxyDaemi": {
    "configs": 0,
-   "proxies": 14,
+   "proxies": 12,
    "error": null
   },
   "persianvpnhub": {
-   "configs": 11,
-   "proxies": 9,
+   "configs": 17,
+   "proxies": 2,
    "error": null
   },
   "TirexNet": {
@@ -81,7 +81,7 @@
   },
   "ShadowProxy66": {
    "configs": 0,
-   "proxies": 59,
+   "proxies": 112,
    "error": null
   },
   "oxnet_ir": {
@@ -91,7 +91,7 @@
   },
   "Moris_Proxy": {
    "configs": 0,
-   "proxies": 52,
+   "proxies": 50,
    "error": null
   },
   "best_internet_iran": {
